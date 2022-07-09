@@ -1,6 +1,6 @@
 import { PostsList } from '../components/posts'
 
-const Posts = () =>{
+const Posts = () => {
     return (
         <>
         <PostsList />
